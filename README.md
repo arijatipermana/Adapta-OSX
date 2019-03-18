@@ -1,5 +1,5 @@
 # Adapta-OSX
-Adapta-OSX is Xfce window manager (XFWM) Theme  like OSX for Adapta Theme
+Adapta-OSX is Xfce window manager (XFWM4) Theme  like OSX for Adapta Theme
 
 This theme is based on 
   - Adapta Theme of adapta-project : https://github.com/adapta-project/adapta-gtk-theme 
