@@ -9,4 +9,4 @@ This theme is based on
 Copy theme folders to /home/$USER/.themes/ or /usr/share/themes
 
 # Screenshots
-<img src="https://github.com/arijatipermana/Adapta-OSX/Screenshot.png" alt="Screenshoot" align="center" />
+<img src="https://github.com/arijatipermana/Adapta-OSX/blob/master/Screenshoot.png" alt="Screenshoot" align="center" />
